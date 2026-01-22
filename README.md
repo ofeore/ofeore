@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I’m Oliver 👋
 
-<!--
-**ofeore/ofeore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a junior software developer who enjoys problem-solving and learning new languages — both human and programming ones.
 
-Here are some ideas to get you started:
+I came to software from a background in Ancient Greek and Latin linguistics, where studying language developed a strong attention to structure, logic, and detail. That way of thinking is what drew me to programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my projects here are small, focused, and built to be reasoned about clearly. I like working through problems carefully, understanding *why* something works, and refining solutions rather than rushing to add features.
+
+I’m currently looking for a junior role where I can keep learning, contribute to a team, and build software that’s genuinely useful.
+
+If you would like to get in touch, feel free to email me.
+
+📫 **ofeore@gmail.com**
