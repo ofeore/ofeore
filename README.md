@@ -1,6 +1,6 @@
-# Hi, I’m Oliver 👋
+# Hi 👋
 
-I’m a junior software developer who enjoys problem-solving and learning new languages — both human and programming ones.
+I’m Oliver, a junior software developer who enjoys problem-solving and learning new languages — both human and programming ones.
 
 I came to software from a background in Ancient Greek and Latin linguistics, where studying language developed a strong attention to structure, logic, and detail. That way of thinking is what drew me to programming.
 
