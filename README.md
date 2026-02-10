@@ -10,4 +10,4 @@ I’m currently looking for a junior role where I can keep learning, contribute 
 
 If you would like to get in touch, feel free to email me.
 
-📫 **ofeore@gmail.com**
+📫 **dev.oliver@proton.me**
