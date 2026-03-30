@@ -1,13 +1,63 @@
-# Hi 👋
+# Hi 👋 I'm Oliver
 
-I’m Oliver, a junior software developer who enjoys problem-solving and learning new languages, both human and programming ones.
+Junior Software Developer (JavaScript, React, Node.js) based in London.
 
-I came to software from a background in Ancient Greek and Latin linguistics, which developed a strong attention to syntax, logic, and structure. That way of thinking is what drew me to programming.
+I recently completed the Northcoders bootcamp, where I built full-stack applications using React, Express, and PostgreSQL.
 
-Most of my projects here are small, focused, and built to be reasoned about clearly. I like working through problems carefully, understanding *why* something works, and refining solutions rather than rushing to add features.
+Before tech, I studied Ancient Greek and Latin at Cambridge - which trained me to think carefully about structure, logic, and systems. That mindset is what drew me into software engineering.
 
-I’m currently looking for a junior role where I can keep learning, contribute to a team, and build software that’s genuinely useful.
+I enjoy breaking problems down, understanding how things work under the hood, and building clean, reliable solutions.
 
-If you would like to get in touch, feel free to email me.
+📫 dev.oliver@proton.me
 
-📫 **dev.oliver@proton.me**
+---
+
+## Featured Projects
+
+### NC News
+Full-stack Reddit-style news platform  
+- REST API built with Node.js, Express & PostgreSQL  
+- Article filtering, sorting, voting, and comments  
+- Optimistic updates on the frontend  
+
+👉 https://github.com/ofeore/nc_news
+
+---
+
+### Inventory Monitor
+Inventory tracking dashboard with alerts  
+- Shopify OAuth integration  
+- Threshold-based stock alerts  
+- Backend API for evaluating inventory states  
+
+👉 https://github.com/ofeore/inventory-monitor
+
+---
+
+### Spillr
+Live chat app for TV episodes  
+- Real-time messaging with WebSockets  
+- Timeline-based commenting system  
+- Interactive UI components  
+
+👉 https://github.com/ofeore/spillr-project-portfolio
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Testing & Tools
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
