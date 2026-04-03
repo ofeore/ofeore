@@ -1,4 +1,4 @@
-Junior Software Developer (JavaScript/Typescript, React, Node.js) based in London.
+Junior Software Developer (JavaScript/TypeScript, React, Node.js) based in London.
 
 I recently completed the Northcoders bootcamp, where I built full-stack applications using React, Express, and PostgreSQL.
 
