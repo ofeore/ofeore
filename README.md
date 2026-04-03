@@ -1,5 +1,3 @@
-# Hi 👋 I'm Oliver
-
 Junior Software Developer (JavaScript, React, Node.js) based in London.
 
 I recently completed the Northcoders bootcamp, where I built full-stack applications using React, Express, and PostgreSQL.
