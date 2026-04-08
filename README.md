@@ -2,7 +2,7 @@ Junior Software Developer (JavaScript/TypeScript, React, Node.js) based in Londo
 
 I recently completed the Northcoders bootcamp, where I built full-stack applications using React, Express, and PostgreSQL.
 
-Currently learning: C#/.Net and AWS fundamentals
+Currently learning: Python and AWS fundamentals
 
 Before tech, I studied Ancient Greek and Latin linguistics at Cambridge - which trained me to think carefully about structure, logic, and systems. That mindset is what drew me into software engineering.
 
